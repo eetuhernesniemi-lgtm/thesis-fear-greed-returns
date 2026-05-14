@@ -19,9 +19,9 @@ The main analysis notebook (full_analysis_with_descriptives.ipynb) loads the
 three input files directly from Google Drive — no manual file upload needed.
 The share links at the top of Cell 1 point to the author's Google Drive copies:
 
-  EDGAR_SHARE_URL   -> edgar_panel_data.xlsx
-  RETURNS_SHARE_URL -> sp500_monthly_returns.csv
-  FNG_SHARE_URL     -> fear_greed_index.csv
+EDGAR_SHARE_URL   = "https://docs.google.com/spreadsheets/d/10n5XzK4ko9O9MxS87BAvU9pRM9Trqtib/edit?usp=sharing&ouid=100967809231587567370&rtpof=true&sd=true"
+RETURNS_SHARE_URL = "https://drive.google.com/file/d/11oK5ln5EoSl12lt1A5WRov7oGXpUwxay/view?usp=drive_link"
+FNG_SHARE_URL     = "https://drive.google.com/file/d/1-ushXY8BClE6fF0UVVezPIbn3bUtewqe/view?usp=drive_link"
 
 To use your own copies: upload the files to Google Drive, set sharing to
 "Anyone with the link can view", and paste the share links into the three
